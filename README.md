@@ -15,7 +15,7 @@ Zur Erreichung der gesetzten Ziele bringen die de-karb Konsortialpartner Marktn�
 Für die Entwicklung der de-karb Platform bietet dieser GitHub Account den Komsortialpartnern die Basis zur Kollaboration und zum Austausch von Softwarecode. 
 Diese de-karb github Instant bietet eine gemeinsames Repository sowie einzelen Repositories für die Entwicklung der einzlenen Konsortialpartner. 
 
-Der Austausch zur Entwicklung erfolgt über den [Teamsserver]([url](https://teams.microsoft.com/l/team/19%3aiyYL-FE0GESVGrkcatI8Zk6B-pniNmwQt6phx0NLOx41%40thread.tacv2/conversations?groupId=20c58fad-3d2c-4ef1-a19f-d1b86221aa72&tenantId=c55cbeab-6f0b-4093-be67-de70826d7ac7)https://teams.microsoft.com/l/team/19%3aiyYL-FE0GESVGrkcatI8Zk6B-pniNmwQt6phx0NLOx41%40thread.tacv2/conversations?groupId=20c58fad-3d2c-4ef1-a19f-d1b86221aa72&tenantId=c55cbeab-6f0b-4093-be67-de70826d7ac7) von AEC
+Der Austausch zur Entwicklung erfolgt über den [Teamsserver](https://teams.microsoft.com/l/team/19%3aiyYL-FE0GESVGrkcatI8Zk6B-pniNmwQt6phx0NLOx41%40thread.tacv2/conversations?groupId=20c58fad-3d2c-4ef1-a19f-d1b86221aa72&tenantId=c55cbeab-6f0b-4093-be67-de70826d7ac7) von AEC
 
 
 ## Help
